@@ -8,6 +8,7 @@ def test():
     a +=1
     d = 456
     g = 789
+    l = 9090
     b ='testing'
 
 if __name__== '__main__':
