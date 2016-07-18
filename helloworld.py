@@ -6,6 +6,7 @@ def test():
     a = 10
     c = 12
     a +=1
+    d = 456
     b ='testing'
 
 if __name__== '__main__':
